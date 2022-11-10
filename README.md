@@ -23,7 +23,7 @@ Esse app foi desenvolvido no intuito de apresentar ao usuário pensamentos de gr
 
 ## Requerimentos
 
-- Xcode 13.1
+- Xcode 14.1
 - Swift 5
 
 ## Autor
