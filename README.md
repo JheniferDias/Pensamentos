@@ -10,9 +10,7 @@ Projeto desenvolvido como desafio durante o curso de desenvolvimento iOS da Udem
 
 ## Introdução
 
-Esse app foi desenvolvido no intuito de apresentar ao usuário pensamentos de grandes filósofos, e pessoas importantes na histó
-ria da humanidade, para realizar reflexões e até
- mesmo leva-lo ao um autoconhecimento. 
+Esse app foi desenvolvido no intuito de apresentar ao usuário pensamentos de grandes filósofos, e pessoas importantes no contexto historico da humanidade, para realizar reflexões e até mesmo leva-lo ao um autoconhecimento. 
  
  ## Aprendizados
  
